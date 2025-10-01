@@ -2,4 +2,4 @@
 
 This is my first repository
 <br>
-Author-Yak-the coolest
+Author-Yak-the smartest
